@@ -1,2 +1,2 @@
 ## Systems-Analysis-and-Design
-This is a repository that contains all activities in the course of CIS 2201
+This repository serves as a central hub for all activities and resources used in the CIS 2201 course.
